@@ -5,7 +5,7 @@
 
 Hi there!
 
-Welcome to UltraPlot, a succint wrapper to matplotlib for producing beautiful plots.
+Welcome to UltraPlot, a succinct wrapper to matplotlib for producing beautiful plots.
 
 Why Code More When You Can Code Less?
 =====================================
